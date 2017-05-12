@@ -1,6 +1,6 @@
 ﻿// JavaScript source code
 
-
+ 
 //a div aminek az innerHTML-ében megjelenítem az adatokat
 var allData = document.getElementById("allData");
 
