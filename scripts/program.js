@@ -1,7 +1,5 @@
 ﻿// JavaScript source code
 
-//Lent kezdődik a kód, ideiglenesen betettem ide a GoT tömböt h tudjak dolgozni vmivel.
-
 
 //a div aminek az innerHTML-ében megjelenítem az adatokat
 var allData = document.getElementById("allData");
@@ -20,8 +18,8 @@ var searchText = document.getElementById("searchText");
 function createHouse(GoT, i) {
     var houseBox = document.createElement('div');
     houseBox.classList.add("divHouse");
-    houseBox.innerHTML += "<b>" + GoT.name + "</b>" + "<br>"+ " <i>" + GoT.region + "</i>" + "<br>" + GoT.coatOfArms + "<br>" 
-  + GoT.words + "<br>" +
+    houseBox.innerHTML += "<b>" + "Név: " + GoT.name + "</b>" + "<br>"+ "Régió: " + "<i>" + GoT.region + "</i>" + "<br>" + "Címer: " + GoT.coatOfArms + "<br>" 
+  + "Mottó: " + GoT.words + "<br>" +
         "<input type='button' onclick='teszt()' value='tesztgomb' /> "+ "<br>" ;
     allData.appendChild(houseBox);
 };
