@@ -88,7 +88,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/5",
       "name": "House Appleton of Appleton",
       "region": "The Reach",
-      "coatOfArms": "Or, an apple tree eradicated proper fructed gules, quartered with argent, a gatehouse cendr�e",
+      "coatOfArms": "Or, an apple tree eradicated proper fructed gules, quartered with argent, a gatehouse cendrée",
       "words": "",
       "titles": [],
       "seats": [
@@ -226,7 +226,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/10",
       "name": "House Baelish of Harrenhal",
       "region": "The Riverlands",
-      "coatOfArms": "A field of silver mockingbirds, on a green field(Vert, sem� of mockingbirds argent)",
+      "coatOfArms": "A field of silver mockingbirds, on a green field(Vert, semé of mockingbirds argent)",
       "words": "",
       "titles": [
         "Lord Paramount of the Trident",
@@ -255,7 +255,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/11",
       "name": "House Baelish of the Fingers",
       "region": "The Vale",
-      "coatOfArms": "A grey stone head with fiery eyes, on a light green field(Vert, a stone head cendr�e, orbed gules)",
+      "coatOfArms": "A grey stone head with fiery eyes, on a light green field(Vert, a stone head cendrée, orbed gules)",
       "words": "",
       "titles": [],
       "seats": [
@@ -306,7 +306,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/13",
       "name": "House Banefort of Banefort",
       "region": "The Westerlands",
-      "coatOfArms": "A black hooded man, on a grey field, within a fiery tressure(Cendr�e, a hooded man sable within a tressure rayonn� along the outer edge gules)",
+      "coatOfArms": "A black hooded man, on a grey field, within a fiery tressure(Cendrée, a hooded man sable within a tressure rayonné along the outer edge gules)",
       "words": "",
       "titles": [
         "Lord of Banefort"
@@ -734,7 +734,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/28",
       "name": "House Blanetree",
       "region": "The Riverlands",
-      "coatOfArms": "Green and brown maple leaves, strewn across a yellow field(Or, sem� of maple leaves vert and tenn�)",
+      "coatOfArms": "Green and brown maple leaves, strewn across a yellow field(Or, semé of maple leaves vert and tenné)",
       "words": "",
       "titles": [],
       "seats": [],
@@ -830,7 +830,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/33",
       "name": "House Bolling",
       "region": "The Stormlands",
-      "coatOfArms": "Vairy orange and blue, upon a black canton, a golden stag beneath an orange bend sinister(Vairy tenn� and azure, on a canton sable a stag or debruised by a bend sinister of the first)",
+      "coatOfArms": "Vairy orange and blue, upon a black canton, a golden stag beneath an orange bend sinister(Vairy tenné and azure, on a canton sable a stag or debruised by a bend sinister of the first)",
       "words": "",
       "titles": [],
       "seats": [],
@@ -890,7 +890,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/35",
       "name": "House Borrell of Sweetsister",
       "region": "The Vale",
-      "coatOfArms": "A white spider crab, on a grey-green field(Vert-cendr�e, a spider crab argent)",
+      "coatOfArms": "A white spider crab, on a grey-green field(Vert-cendrée, a spider crab argent)",
       "words": "",
       "titles": [
         "Lord of Sweetsister"
@@ -951,7 +951,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/37",
       "name": "House Bracken of Stone Hedge",
       "region": "The Riverlands",
-      "coatOfArms": "A red stallion upon a gold shield, on a brown field(Tenn�, on an escutcheon or a stallion rampant gules)",
+      "coatOfArms": "A red stallion upon a gold shield, on a brown field(Tenné, on an escutcheon or a stallion rampant gules)",
       "words": "",
       "titles": [],
       "seats": [
@@ -1191,7 +1191,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/48",
       "name": "House Brune of Brownhollow",
       "region": "The Crownlands",
-      "coatOfArms": "Argent, a bear's paw erased within a double tressure tenn�",
+      "coatOfArms": "Argent, a bear's paw erased within a double tressure tenné",
       "words": "",
       "titles": [
         "The Knight of Brownhollow"
@@ -1458,7 +1458,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/60",
       "name": "House Caron of Nightsong",
       "region": "The Stormlands",
-      "coatOfArms": "A field of black nightingales on yellow(Or, sem� of nightingales sable)",
+      "coatOfArms": "A field of black nightingales on yellow(Or, semé of nightingales sable)",
       "words": "No Song so Sweet",
       "titles": [
         "Lord of the Marches",
@@ -2074,7 +2074,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/86",
       "name": "House Crakehall of Crakehall",
       "region": "The Westerlands",
-      "coatOfArms": "A brindled boar on a brown field(Tenn�, a boar brindled sable and argent)",
+      "coatOfArms": "A brindled boar on a brown field(Tenné, a boar brindled sable and argent)",
       "words": "None so Fierce",
       "titles": [
         "Lord of Crakehall"
@@ -2323,7 +2323,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/97",
       "name": "House Darry of Darry",
       "region": "The Riverlands",
-      "coatOfArms": "A black plowman on a brown field(Tenn�, a plowman sable)",
+      "coatOfArms": "A black plowman on a brown field(Tenné, a plowman sable)",
       "words": "",
       "titles": [],
       "seats": [
@@ -2447,7 +2447,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/102",
       "name": "House Dondarrion of Blackhaven",
       "region": "The Stormlands",
-      "coatOfArms": "A forked purple lightning bolt, on black field speckled with four-pointed stars(Sable, sem� of mullets of four points argent, a lightning bolt forked purpure)",
+      "coatOfArms": "A forked purple lightning bolt, on black field speckled with four-pointed stars(Sable, semé of mullets of four points argent, a lightning bolt forked purpure)",
       "words": "",
       "titles": [
         "Lord of Blackhaven"
@@ -2473,7 +2473,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/103",
       "name": "House Donniger",
       "region": "The Vale",
-      "coatOfArms": "A red sun rising from a grey-green sea, against a yellow sky(Per fesse wavy or and vert-cendr�e, a demi-sun-in-splendour issuant from the line of division gules)",
+      "coatOfArms": "A red sun rising from a grey-green sea, against a yellow sky(Per fesse wavy or and vert-cendrée, a demi-sun-in-splendour issuant from the line of division gules)",
       "words": "",
       "titles": [],
       "seats": [],
@@ -2712,7 +2712,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/114",
       "name": "House Elesham of the Paps",
       "region": "The Vale",
-      "coatOfArms": "A black star between an inverted stone-coloured double-pile, on a pink field(Carnation, a mullet sable between two piles issuant from base cendr�e)",
+      "coatOfArms": "A black star between an inverted stone-coloured double-pile, on a pink field(Carnation, a mullet sable between two piles issuant from base cendrée)",
       "words": "",
       "titles": [],
       "seats": [
@@ -2752,7 +2752,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/116",
       "name": "House Errol of Haystack Hall",
       "region": "The Stormlands",
-      "coatOfArms": "A yellow haystack, on an orange field(Tenn�, a haystack or)",
+      "coatOfArms": "A yellow haystack, on an orange field(Tenné, a haystack or)",
       "words": "",
       "titles": [
         "Lord of Haystack Hall"
@@ -2947,7 +2947,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/124",
       "name": "House Fell of Felwood",
       "region": "The Stormlands",
-      "coatOfArms": "Per fess, a white crescent moon on a black field above a green field, a sprucetree line between(Per fess sapinag� vert and sable, in dexter chief a moon increscent argent)",
+      "coatOfArms": "Per fess, a white crescent moon on a black field above a green field, a sprucetree line between(Per fess sapinagé vert and sable, in dexter chief a moon increscent argent)",
       "words": "",
       "titles": [
         "Lord of Felwood"
@@ -3008,7 +3008,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/127",
       "name": "House Fisher",
       "region": "The Riverlands",
-      "coatOfArms": "A crowned catfish, spotted grey, on a blue field(Azure, a catfish cendr�e, crowned or)",
+      "coatOfArms": "A crowned catfish, spotted grey, on a blue field(Azure, a catfish cendrée, crowned or)",
       "words": "",
       "titles": [
         "River king"
@@ -3099,7 +3099,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/131",
       "name": "House Flint of Flint's Finger",
       "region": "The North",
-      "coatOfArms": "Paly sable and cendr�e on a pall inverted argent a hand couped of the second",
+      "coatOfArms": "Paly sable and cendrée on a pall inverted argent a hand couped of the second",
       "words": "",
       "titles": [],
       "seats": [
@@ -3202,7 +3202,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/135",
       "name": "House Foote",
       "region": "The Westerlands",
-      "coatOfArms": "A copper dagger across a black chevron, on a white field(Argent, a chevron reversed sable, surmounted by a dagger erect tenn�)",
+      "coatOfArms": "A copper dagger across a black chevron, on a white field(Argent, a chevron reversed sable, surmounted by a dagger erect tenné)",
       "words": "",
       "titles": [],
       "seats": [],
@@ -3402,7 +3402,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/143",
       "name": "House Frey of the Crossing",
       "region": "The Riverlands",
-      "coatOfArms": "Two blue towers, united by a bridge, on a silver-grey field(Cendr�e, a bridge azure, at either end a tower of the same)",
+      "coatOfArms": "Two blue towers, united by a bridge, on a silver-grey field(Cendrée, a bridge azure, at either end a tower of the same)",
       "words": "",
       "titles": [
         "Lord of the Crossing"
@@ -3617,7 +3617,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/147",
       "name": "House Garner",
       "region": "The Westerlands",
-      "coatOfArms": "Three grey owls upon white plates, on a green field(Vert, three plates, each charged with an owl close affront� cendr�e)",
+      "coatOfArms": "Three grey owls upon white plates, on a green field(Vert, three plates, each charged with an owl close affronté cendrée)",
       "words": "",
       "titles": [],
       "seats": [],
@@ -4203,7 +4203,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/172",
       "name": "House Haigh",
       "region": "The Riverlands",
-      "coatOfArms": "A black pitchfork on a gold bend sinister, on a russet field(Tenn�, on a bend sinister or a pitchfork sable)",
+      "coatOfArms": "A black pitchfork on a gold bend sinister, on a russet field(Tenné, on a bend sinister or a pitchfork sable)",
       "words": "",
       "titles": [],
       "seats": [],
@@ -4463,7 +4463,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/183",
       "name": "House Harroway of Harrenhal",
       "region": "The Riverlands",
-      "coatOfArms": "Per bend sinister orange and sable rayonn�, a castle counterchanged(Per bend sinister rayonn� tenn� and sable, a castle counterchanged)",
+      "coatOfArms": "Per bend sinister orange and sable rayonné, a castle counterchanged(Per bend sinister rayonné tenné and sable, a castle counterchanged)",
       "words": "",
       "titles": [
         "Lord of Harrenhal"
@@ -4543,7 +4543,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/187",
       "name": "House Hawick of Saltpans",
       "region": "The Riverlands",
-      "coatOfArms": "White seabirds strewn across a blue field(Azure, sem� of seabirds argent)",
+      "coatOfArms": "White seabirds strewn across a blue field(Azure, semé of seabirds argent)",
       "words": "",
       "titles": [],
       "seats": [
@@ -4666,7 +4666,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/193",
       "name": "House Hetherspoon",
       "region": "The Westerlands",
-      "coatOfArms": "An oak spoon within a white cartouche, on a field of orange and black diamonds(Lozengy tenn� and sable, on a cartouche argent a spoon or)",
+      "coatOfArms": "An oak spoon within a white cartouche, on a field of orange and black diamonds(Lozengy tenné and sable, on a cartouche argent a spoon or)",
       "words": "",
       "titles": [
         "Ser"
@@ -4715,7 +4715,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/195",
       "name": "House Hightower of the Hightower",
       "region": "The Reach",
-      "coatOfArms": "Cendr�e, a tower argent with a beacon on fire gules",
+      "coatOfArms": "Cendrée, a tower argent with a beacon on fire gules",
       "words": "We Light the Way",
       "titles": [
         "Lord of the Hightower",
@@ -4926,7 +4926,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/203",
       "name": "House Horpe",
       "region": "The Stormlands",
-      "coatOfArms": "Per chevron engrailed grey and bone, three death's head moths counterchanged(Per chevron reversed engrailed cendr�e and argent, three death's head moths counterchanged)",
+      "coatOfArms": "Per chevron engrailed grey and bone, three death's head moths counterchanged(Per chevron reversed engrailed cendrée and argent, three death's head moths counterchanged)",
       "words": "",
       "titles": [],
       "seats": [],
@@ -5008,7 +5008,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/207",
       "name": "House Hunter of Longbow Hall",
       "region": "The Vale",
-      "coatOfArms": "Five silver arrows, fanned, on a brown field(Tenn�, a sheaf of five arrows, points to chief, argent)",
+      "coatOfArms": "Five silver arrows, fanned, on a brown field(Tenné, a sheaf of five arrows, points to chief, argent)",
       "words": "",
       "titles": [
         "Lord of Longbow Hall"
@@ -5054,7 +5054,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/209",
       "name": "House Inchfield",
       "region": "The Reach",
-      "coatOfArms": "Cendr�e, a bend sinister chequy sable and argent",
+      "coatOfArms": "Cendrée, a bend sinister chequy sable and argent",
       "words": "",
       "titles": [],
       "seats": [],
@@ -5217,7 +5217,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/216",
       "name": "House Keath",
       "region": "The Riverlands",
-      "coatOfArms": "Quarterly of nine; a white fish on a grey field; a gold fish hook on a white field(Quarterly of nine, first, third, fifth, seventh and ninth cendr�e, a fish argent; second, fourth, sixth and eight argent, a fish-hook or)",
+      "coatOfArms": "Quarterly of nine; a white fish on a grey field; a gold fish hook on a white field(Quarterly of nine, first, third, fifth, seventh and ninth cendrée, a fish argent; second, fourth, sixth and eight argent, a fish-hook or)",
       "words": "",
       "titles": [],
       "seats": [],
@@ -5235,7 +5235,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/217",
       "name": "House Kellington",
       "region": "The Stormlands",
-      "coatOfArms": "A black book bound in bronze, locked, on a pale blue field(Azure, a locked book sable, edged and garnished tenn�)",
+      "coatOfArms": "A black book bound in bronze, locked, on a pale blue field(Azure, a locked book sable, edged and garnished tenné)",
       "words": "",
       "titles": [],
       "seats": [],
@@ -5253,7 +5253,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/218",
       "name": "House Kenning of Harlaw",
       "region": "Iron Islands",
-      "coatOfArms": "Sable, issuant from a cloud bank in chief the Storm God's hand cendr�e with lightning flashing from its fingertip Or",
+      "coatOfArms": "Sable, issuant from a cloud bank in chief the Storm God's hand cendrée with lightning flashing from its fingertip Or",
       "words": "",
       "titles": [],
       "seats": [],
@@ -5277,7 +5277,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/219",
       "name": "House Kenning of Kayce",
       "region": "The Westerlands",
-      "coatOfArms": "Four sunbursts counterchanged on a quartered orange and black field(Quarterly tenn� and sable, four suns-in-splendour counterchanged)",
+      "coatOfArms": "Four sunbursts counterchanged on a quartered orange and black field(Quarterly tenné and sable, four suns-in-splendour counterchanged)",
       "words": "",
       "titles": [
         "Lord of Kayce"
@@ -5326,7 +5326,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/221",
       "name": "House Kidwell of Ivy Hall",
       "region": "The Reach",
-      "coatOfArms": "Cendr�e masoned sable, semy of ivy leaves vert",
+      "coatOfArms": "Cendrée masoned sable, semy of ivy leaves vert",
       "words": "",
       "titles": [],
       "seats": [
@@ -5590,7 +5590,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/230",
       "name": "House Lannister of Darry",
       "region": "The Riverlands",
-      "coatOfArms": "Quarterly, a gold lion on a red field; a black plowman on a brown field(Quarterly, first and fourth gules a lion rampant or (for Lannister), second and third tenn� a plowman sable (for Darry))",
+      "coatOfArms": "Quarterly, a gold lion on a red field; a black plowman on a brown field(Quarterly, first and fourth gules a lion rampant or (for Lannister), second and third tenné a plowman sable (for Darry))",
       "words": "",
       "titles": [
         "Lord of Darry"
@@ -5883,7 +5883,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/244",
       "name": "House Lonmouth",
       "region": "The Stormlands",
-      "coatOfArms": "Quartered of six: red lips strewn on a yellow field, yellow skulls strewn on a black field(Quarterly of six, first, third and fifth, or, sem� of lips gules, second, fourth and sixth, sable, sem� of skulls of the first)",
+      "coatOfArms": "Quartered of six: red lips strewn on a yellow field, yellow skulls strewn on a black field(Quarterly of six, first, third and fifth, or, semé of lips gules, second, fourth and sixth, sable, semé of skulls of the first)",
       "words": "The Choice is Yours",
       "titles": [],
       "seats": [],
@@ -5990,7 +5990,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/249",
       "name": "House Lychester",
       "region": "The Riverlands",
-      "coatOfArms": "A black talon, on an orange and white gyronny field(Gyronny tenn� and argent, an eagle's leg erased sable)",
+      "coatOfArms": "A black talon, on an orange and white gyronny field(Gyronny tenné and argent, an eagle's leg erased sable)",
       "words": "",
       "titles": [],
       "seats": [
@@ -6012,7 +6012,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/250",
       "name": "House Lydden of Deep Den",
       "region": "The Westerlands",
-      "coatOfArms": "A white badger on a per pale green and brown field(Per pale vert and tenn�, a badger passant argent)",
+      "coatOfArms": "A white badger on a per pale green and brown field(Per pale vert and tenné, a badger passant argent)",
       "words": "",
       "titles": [
         "Lord of the Deep Den"
@@ -6037,7 +6037,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/251",
       "name": "House Lynderly of the Snakewood",
       "region": "The Vale",
-      "coatOfArms": "A black field strewn with green vipers(Sable, sem� of snakes vert)",
+      "coatOfArms": "A black field strewn with green vipers(Sable, semé of snakes vert)",
       "words": "",
       "titles": [
         "Lord of the Snakewood"
@@ -6215,7 +6215,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/258",
       "name": "House Marbrand of Ashemark",
       "region": "The Westerlands",
-      "coatOfArms": "An orange burning tree, on a smoky field(Cendr�e, a tree in flame tenn�)",
+      "coatOfArms": "An orange burning tree, on a smoky field(Cendrée, a tree in flame tenné)",
       "words": "Burning bright",
       "titles": [],
       "seats": [
@@ -6307,7 +6307,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/262",
       "name": "House Melcolm of Old Anchor",
       "region": "The Vale",
-      "coatOfArms": "A rusty anchor, on a turquoise field, beneath yellow chief with three blue plates(Azure, an anchor tenn�, on a chief or three hurts)",
+      "coatOfArms": "A rusty anchor, on a turquoise field, beneath yellow chief with three blue plates(Azure, an anchor tenné, on a chief or three hurts)",
       "words": "",
       "titles": [],
       "seats": [
@@ -6373,7 +6373,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/265",
       "name": "House Mertyns of Mistwood",
       "region": "The Stormlands",
-      "coatOfArms": "A white great horned owl on a grey field(Cendr�e, a great-horned owl close affront� argent)",
+      "coatOfArms": "A white great horned owl on a grey field(Cendrée, a great-horned owl close affronté argent)",
       "words": "",
       "titles": [],
       "seats": [
@@ -6434,7 +6434,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/268",
       "name": "House Moore",
       "region": "The Vale",
-      "coatOfArms": "Three bronze spearheads, on a white field, within a bronze embattled border(Argent, three spearheads within a bordure embattled tenn�)",
+      "coatOfArms": "Three bronze spearheads, on a white field, within a bronze embattled border(Argent, three spearheads within a bordure embattled tenné)",
       "words": "",
       "titles": [],
       "seats": [],
@@ -6480,7 +6480,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/270",
       "name": "House Moreland",
       "region": "The Westerlands",
-      "coatOfArms": "Per pale barry russet and green(Per pale barry tenn� and vert)",
+      "coatOfArms": "Per pale barry russet and green(Per pale barry tenné and vert)",
       "words": "",
       "titles": [],
       "seats": [],
@@ -6579,7 +6579,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/274",
       "name": "House Mudd of Oldstones",
       "region": "The Riverlands",
-      "coatOfArms": "A golden crown studded with emeralds, on a red-brown field(Tenn�, an ancient crown or studded with emeralds vert)",
+      "coatOfArms": "A golden crown studded with emeralds, on a red-brown field(Tenné, an ancient crown or studded with emeralds vert)",
       "words": "",
       "titles": [
         "King of the Rivers and the Hills"
@@ -6648,7 +6648,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/277",
       "name": "House Myatt",
       "region": "The Westerlands",
-      "coatOfArms": "A spotted yellow-and-black treecat, on a mud-brown field(Tenn�, a treecat or pellet�)",
+      "coatOfArms": "A spotted yellow-and-black treecat, on a mud-brown field(Tenné, a treecat or pelleté)",
       "words": "",
       "titles": [],
       "seats": [],
@@ -7201,7 +7201,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/300",
       "name": "House Penrose of Parchments",
       "region": "The Stormlands",
-      "coatOfArms": "White crossed quills, on a russet field(Tenn�, two quills saltirewise argent)",
+      "coatOfArms": "White crossed quills, on a russet field(Tenné, two quills saltirewise argent)",
       "words": "Set Down Our Deeds",
       "titles": [
         "Lord of Parchments"
@@ -7315,7 +7315,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/305",
       "name": "House Poole",
       "region": "The North",
-      "coatOfArms": "White, a roundel azure, a tressure cendr�e",
+      "coatOfArms": "White, a roundel azure, a tressure cendrée",
       "words": "",
       "titles": [],
       "seats": [],
@@ -7417,7 +7417,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/310",
       "name": "House Qoherys of Harrenhal",
       "region": "The Riverlands",
-      "coatOfArms": "A flaming red and yellow saltire between four white skulls, on a black field(Sable, a saltire rayonn� gules, tipped or, between four skulls argent)",
+      "coatOfArms": "A flaming red and yellow saltire between four white skulls, on a black field(Sable, a saltire rayonné gules, tipped or, between four skulls argent)",
       "words": "",
       "titles": [
         "Lord of Harrenhal"
@@ -7636,7 +7636,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/319",
       "name": "House Reyne of Castamere",
       "region": "The Westerlands",
-      "coatOfArms": "A red lion rampant regardant with a forked tail, with gold teeth and claws, on a silver field(Argent, a lion rampant regardant queue-fourch� gules, armed and langued or)",
+      "coatOfArms": "A red lion rampant regardant with a forked tail, with gold teeth and claws, on a silver field(Argent, a lion rampant regardant queue-fourché gules, armed and langued or)",
       "words": "",
       "titles": [
         "Lord of Castamere"
@@ -7741,7 +7741,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/324",
       "name": "House Roote of Lord Harroway's Town",
       "region": "The Riverlands",
-      "coatOfArms": "A brown double-headed horse on a field of wavy green and green(Wavy vert and vert, a two-headed horse tenn�)",
+      "coatOfArms": "A brown double-headed horse on a field of wavy green and green(Wavy vert and vert, a two-headed horse tenné)",
       "words": "",
       "titles": [],
       "seats": [
@@ -7839,7 +7839,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/328",
       "name": "House Royce of Runestone",
       "region": "The Vale",
-      "coatOfArms": "Black iron studs on a bronze field, bordered with runes(Tenn� pellet�e, an orle of ancient runes sable)",
+      "coatOfArms": "Black iron studs on a bronze field, bordered with runes(Tenné pelletée, an orle of ancient runes sable)",
       "words": "We Remember",
       "titles": [
         "High King of the Vale, the Fingers and the Mountains of the Moon (formerly)",
@@ -7879,7 +7879,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/329",
       "name": "House Royce of the Gates of the Moon",
       "region": "The Vale",
-      "coatOfArms": "A black portcullis over a white crescent moon, on a purple field, bordered with runes on bronze(Purpure, a moon increscent argent surmounted by a portcullis sable, all within a bordure tenn� charged with ancient runes of the third)",
+      "coatOfArms": "A black portcullis over a white crescent moon, on a purple field, bordered with runes on bronze(Purpure, a moon increscent argent surmounted by a portcullis sable, all within a bordure tenné charged with ancient runes of the third)",
       "words": "",
       "titles": [
         "Lord of the Gates of the Moon"
@@ -7927,7 +7927,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/331",
       "name": "House Ruttiger",
       "region": "The Westerlands",
-      "coatOfArms": "An orange engrailed bend, on a black field(Sable, a bend tenn� engrailed)",
+      "coatOfArms": "An orange engrailed bend, on a black field(Sable, a bend tenné engrailed)",
       "words": "",
       "titles": [],
       "seats": [],
@@ -8134,7 +8134,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/340",
       "name": "House Seaworth of Cape Wrath",
       "region": "The Stormlands",
-      "coatOfArms": "A black ship on a pale grey field, with a white onion on its sails(Cendr�e, a ship sable, its sail charged with an onion argent)",
+      "coatOfArms": "A black ship on a pale grey field, with a white onion on its sails(Cendrée, a ship sable, its sail charged with an onion argent)",
       "words": "",
       "titles": [],
       "seats": [],
@@ -8162,7 +8162,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/341",
       "name": "House Selmy of Harvest Hall",
       "region": "The Stormlands",
-      "coatOfArms": "Three stalks of yellow wheat, on a brown field(Tenn�, three stalks of wheat or)",
+      "coatOfArms": "Three stalks of yellow wheat, on a brown field(Tenné, three stalks of wheat or)",
       "words": "",
       "titles": [
         "Lord of Harvest Hall"
@@ -8377,7 +8377,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/351",
       "name": "House Shett of Gulltown",
       "region": "The Vale",
-      "coatOfArms": "Nine white seagulls on a field of brown(Tenn�, nine seagulls argent, 3, 3, 2, 1)",
+      "coatOfArms": "Nine white seagulls on a field of brown(Tenné, nine seagulls argent, 3, 3, 2, 1)",
       "words": "",
       "titles": [],
       "seats": [
@@ -8462,7 +8462,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/355",
       "name": "House Smallwood of Acorn Hall",
       "region": "The Riverlands",
-      "coatOfArms": "Six brown acorns, on a yellow field(Or, six acorns, 3, 2, 1, tenn�)",
+      "coatOfArms": "Six brown acorns, on a yellow field(Or, six acorns, 3, 2, 1, tenné)",
       "words": "From These Beginnings",
       "titles": [
         "Lord of Acorn Hall"
@@ -8512,7 +8512,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/357",
       "name": "House Spicer of Castamere",
       "region": "The Westerlands",
-      "coatOfArms": "Three black pepperpots on a saffron bend, across a field of green and silver stripes (Paly vert and argent, three pepperpots sable on a bend tenn�)",
+      "coatOfArms": "Three black pepperpots on a saffron bend, across a field of green and silver stripes (Paly vert and argent, three pepperpots sable on a bend tenné)",
       "words": "",
       "titles": [
         "Lord of Castamere"
@@ -8578,7 +8578,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/360",
       "name": "House Staedmon of Broad Arch",
       "region": "The Stormlands",
-      "coatOfArms": "A black dagger piercing a red heart on a white de sang field, within an undulating red border(Argent goutt�-de-sang, a heart gules transfixed by a dagger sable, all within a bordure wavy of the second)",
+      "coatOfArms": "A black dagger piercing a red heart on a white de sang field, within an undulating red border(Argent goutté-de-sang, a heart gules transfixed by a dagger sable, all within a bordure wavy of the second)",
       "words": "",
       "titles": [],
       "seats": [
@@ -8835,7 +8835,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/367",
       "name": "House Stout of Goldgrass",
       "region": "The North",
-      "coatOfArms": "Chevronny tenn� and Or",
+      "coatOfArms": "Chevronny tenné and Or",
       "words": "",
       "titles": [
         "Lord of Goldgrass"
@@ -9456,7 +9456,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/388",
       "name": "House Tollett of the Grey Glen",
       "region": "The Vale",
-      "coatOfArms": "Pily grey and black(Pily cendr�e and sable)",
+      "coatOfArms": "Pily grey and black(Pily cendrée and sable)",
       "words": "When All is Darkest",
       "titles": [
         "Lord of the Grey Glen"
@@ -9588,7 +9588,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/394",
       "name": "House Tudbury",
       "region": "The Stormlands",
-      "coatOfArms": "A brown tortoise within a yellow lozenge, on a green field(Vert, on a lozenge or a tortoise tergiant tenn�)",
+      "coatOfArms": "A brown tortoise within a yellow lozenge, on a green field(Vert, on a lozenge or a tortoise tergiant tenné)",
       "words": "",
       "titles": [],
       "seats": [],
@@ -9766,7 +9766,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/399",
       "name": "House Uffering",
       "region": "The Reach",
-      "coatOfArms": "Paly tenn� and cendr�e, upon a chief argent seven hands couped vert",
+      "coatOfArms": "Paly tenné and cendrée, upon a chief argent seven hands couped vert",
       "words": "",
       "titles": [],
       "seats": [],
@@ -9996,7 +9996,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/408",
       "name": "House Vikary",
       "region": "The Westerlands",
-      "coatOfArms": "Quarterly: a red boar's head on a white field; beneath a gold bend sinister, a silver lion rampant regardant with a forked tail, with gold teeth and claws, on a red field(Quarterly, first and fourth, argent, a boar's head couped gules, second and third, gules, a lion rampant regardant queue-forch� argent, armed and langued or, debruised by a bend sinister of the last)",
+      "coatOfArms": "Quarterly: a red boar's head on a white field; beneath a gold bend sinister, a silver lion rampant regardant with a forked tail, with gold teeth and claws, on a red field(Quarterly, first and fourth, argent, a boar's head couped gules, second and third, gules, a lion rampant regardant queue-forché argent, armed and langued or, debruised by a bend sinister of the last)",
       "words": "",
       "titles": [],
       "seats": [],
@@ -10016,7 +10016,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/409",
       "name": "House Volmark",
       "region": "Iron Islands",
-      "coatOfArms": "Cendr�e, a leviathan sable",
+      "coatOfArms": "Cendrée, a leviathan sable",
       "words": "",
       "titles": [
         "Lord of Volmark",
@@ -10143,7 +10143,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/415",
       "name": "House Waxley of Wickenden",
       "region": "The Vale",
-      "coatOfArms": "Three candles, white with red flames, within silver candle holders, on a grey field within a black border(Cendr�e, three candles in holders argent, flamed gules, within a bordure sable)",
+      "coatOfArms": "Three candles, white with red flames, within silver candle holders, on a grey field within a black border(Cendrée, three candles in holders argent, flamed gules, within a bordure sable)",
       "words": "Light in Darkness",
       "titles": [
         "The Knight of Wickenden"
@@ -10290,7 +10290,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/421",
       "name": "House Wells",
       "region": "The North",
-      "coatOfArms": "Per fess cendr�e and lozengy argent and vert, in chief five pellets",
+      "coatOfArms": "Per fess cendrée and lozengy argent and vert, in chief five pellets",
       "words": "",
       "titles": [],
       "seats": [],
@@ -10592,7 +10592,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/435",
       "name": "House Wull",
       "region": "The North",
-      "coatOfArms": "Azure, three wooden buckets tenn�, a bordure chequy cendr�e and white",
+      "coatOfArms": "Azure, three wooden buckets tenné, a bordure chequy cendrée and white",
       "words": "",
       "titles": [
         "The Wull  Lord Wull"
@@ -10732,7 +10732,7 @@ var GoT = [
       "url": "https://www.anapioficeandfire.com/api/houses/441",
       "name": "House Yarwyck",
       "region": "The Westerlands",
-      "coatOfArms": "Two bronze halberds crossed between four red diamonds, on a white field(Argent, two halberds saltirewise tenn�, hafted sable, between four lozenges gules)",
+      "coatOfArms": "Two bronze halberds crossed between four red diamonds, on a white field(Argent, two halberds saltirewise tenné, hafted sable, between four lozenges gules)",
       "words": "",
       "titles": [],
       "seats": [],
