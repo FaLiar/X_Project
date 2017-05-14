@@ -9,24 +9,30 @@
     <meta name="author" content="Unknown Team">
     <link rel="icon" href="rRo_PhzH.jpg">
     <link rel="stylesheet" type="text/css" href="styles/main.css">
+    <script src="https://code.jquery.com/jquery.min.js"></script>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=MedievalSharp" rel="stylesheet">
 </head>
 <body>
     <header><h2>Game of Thrones - Houses</h2>
     </header>
     <section>
-    <input type="button" id="dataList" value="Listázd az összeset">
-    <input type="button" id="fromAtoZN" value="Név szerint nő">
-    <input type="button" id="fromZtoAN" value="Név szerint csökken"> <br>
-    <input type="button" id="fromAtoZR" value="Régió szerint nő">
-    <input type="button" id="fromZtoAR" value="Régió szerint csökken"><br>
-    <input type="text" id="searchText" />
-    <input type="button" id="searchAll" value="Keress bármi alapján!">
-    <div class="elso" id="allData"></div>
+    <input type="button" id="dataList" class="btn btn-primary btn-lg btn" value="Listázd az összeset">
+    <input type="button" id="fromAtoZN" class="btn btn-primary btn-lg btn" value="Név szerint nő">
+    <input type="button" id="fromZtoAN" class="btn btn-primary btn-lg btn" value="Név szerint csökken"> <br>
+    <input type="button" id="fromAtoZR" class="btn btn-primary btn-lg btn" value="Régió szerint nő">
+    <input type="button" id="fromZtoAR" class="btn btn-primary btn-lg btn" value="Régió szerint csökken"><br>
+    <input  type="text" class="form-control" placeholder="Search.." value="" id="searchText" />
+    <input type="button" id="searchAll" class="btn btn-success btn-lg btn-block" value="Keress bármi alapján!">
+    <div class="elso hide1" id="allData"></div>
     <div class="masodik"></div>
     <div class="harmadik"></div>
     </section>
-    <script src="scripts/program.js"></script>
-     <script src="ASOIAF_api_houses.js"></script>
-      
+    <video class="video" autoplay="autoplay" loop="loop" muted=""><source src="giphy.mp4" type="video/mp4" /></video>
+
+        <script src="scripts/program.js"></script>
+        <script src="ASOIAF_api_houses.js"></script>
+
 </body>
 </html>

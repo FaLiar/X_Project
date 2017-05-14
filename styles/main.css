@@ -1,7 +1,89 @@
-﻿body {
- padding-left: 20px;
+﻿body>input {
+ height: 100%;
+ font-family: 'MedievalSharp', cursive;
+ text-co
 }
 
-.divHouse {
-    margin-bottom: 10px;
+header,
+h2 {
+font-family: 'MedievalSharp', cursive;
+color:#fff;
+}
+
+/*search.got-----------------------------------------------------------------------------------------
+    --------------------------------------------------------------------------------------------------------------------------
+    **************************************************************************
+*/
+
+#allData {
+width: 100%;
+border: solid;
+border-color: black;
+border-radius: 25px;
+margin-top: 100px;
+font-family: 'MedievalSharp', cursive;
+font-size:25px;
+font-weight: 800;
+color:#fff;
+}
+
+.output_text {
+    margin-top: 20px;
+}
+
+#outputPic {
+    overflow:initial;
+    margin-left:10%;
+}
+
+#input {
+    margin-top: 100px;
+    width: 100%;
+}
+
+#main_search {
+    width:100%;
+}
+
+#input_text_search {
+    margin-top: 60px;
+}
+
+.form-control {
+    max-width:50%;
+    margin-left: 25%;
+}
+
+.btn-success{
+    max-width:50%;
+    margin-left: 25%;
+}
+
+#searchText{
+    margin-top: 20px;
+}
+
+/*show divs*/
+
+.hide1 {
+    transform: translateX(-100%);
+    transition: transform 1.5s ease-in-out;
+}
+
+.show1 {
+    transform: translateX(0);
+    transition: transform 1.5s ease-in-out;
+}
+
+/*video*/
+
+.video {
+  position: fixed;
+  top: 50%; left: 50%;
+  z-index: -2;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  transform: translate(-50%, -50%);
 }

@@ -19,8 +19,7 @@ function createHouse(GoT, i) {
     var houseBox = document.createElement('div');
     houseBox.classList.add("divHouse");
     houseBox.innerHTML += "<b>" + "Név: " + GoT.name + "</b>" + "<br>"+ "Régió: " + "<i>" + GoT.region + "</i>" + "<br>" + "Címer: " + GoT.coatOfArms + "<br>" 
-  + "Mottó: " + GoT.words + "<br>" +
-        "<input type='button' onclick='teszt()' value='tesztgomb' /> "+ "<br>" ;
+  + "Mottó: " + GoT.words +"<br><hr>";
     allData.appendChild(houseBox);
 };
 
@@ -89,5 +88,30 @@ function searchAll() {
     }
 }
 
+//becsúszó div
 
+myID = document.getElementById("allData");
 
+document.getElementById("dataList").addEventListener("click", showDIV);
+document.getElementById("fromAtoZN").addEventListener("click", showDIV);
+document.getElementById("fromZtoAN").addEventListener("click", showDIV);
+document.getElementById("fromAtoZR").addEventListener("click", showDIV);
+document.getElementById("fromZtoAR").addEventListener("click", showDIV);
+document.getElementById("searchAll").addEventListener("click", showDIV);
+
+function showDIV(){
+        myID.className = "div show1"
+};
+
+document.getElementById("dataList").addEventListener("click", setTimeout(hideDiv, 200));
+document.getElementById("fromAtoZN").addEventListener("click", myTime);
+document.getElementById("fromZtoAN").addEventListener("click", myTime);
+document.getElementById("fromAtoZR").addEventListener("click", myTime);
+document.getElementById("fromZtoAR").addEventListener("click", myTime);
+document.getElementById("searchAll").addEventListener("click", myTime);
+
+window.setTimeout(hideDiv, 2000);
+
+function hideDiv() {
+    myID.className = "div hide1"
+};
